@@ -11,7 +11,7 @@
     "async": "0.7.x",
     "cheerio": "0.13.1",
     "colors": "0.6.x",
-    "debug": "0.8.x",
+    "debug": "^2.2.0",
     "exec": "^0.2.1",
     "feedparser": "0.16.6",
     "html-entities": "1.0.10",
