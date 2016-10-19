@@ -43,6 +43,15 @@ exports = module.exports = function () {
                         if (err instanceof Error) {
                             callback(error);
                         }
+<<<<<<< HEAD
+                        // 保存一下
+                        debugger;
+=======
+                        debug('after get context %s', item.guid )
+                        fs.writeFile(item.guid + 'out', out)
+                        //fs.writeFile(item.guid + 'code', code)
+
+>>>>>>> origin/master
                         Read(context, out)
                     });
                 } else {
