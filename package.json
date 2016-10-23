@@ -16,6 +16,7 @@
     "feedparser": "0.16.6",
     "html-entities": "1.0.10",
     "iconv-lite": "0.2.11",
+    "congregator-base": "anzizhao/congregator",
     "node-read": "git+https://878c3337f2ae0290ec65e461c1b6f7cc8e26c0c6:x-oauth-basic@github.com/eiriklv/node-read.git",
     "request": "2.34.0"
   },
