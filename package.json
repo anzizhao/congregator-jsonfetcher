@@ -10,14 +10,16 @@
   "dependencies": {
     "async": "0.7.x",
     "cheerio": "0.13.1",
+    "child_process": "^1.0.2",
     "colors": "0.6.x",
+    "congregator-base": "anzizhao/congregator",
     "debug": "^2.2.0",
+    "deepmerge": "^1.2.0",
     "exec": "^0.2.1",
     "feedparser": "0.16.6",
     "html-entities": "1.0.10",
     "iconv-lite": "0.2.11",
-    "congregator-base": "anzizhao/congregator",
-    "node-read": "git+https://878c3337f2ae0290ec65e461c1b6f7cc8e26c0c6:x-oauth-basic@github.com/eiriklv/node-read.git",
+    "node-read": "^0.1.7",
     "request": "2.34.0"
   },
   "devDependencies": {},
