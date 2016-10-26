@@ -3,10 +3,6 @@
   "version": "1.1.1",
   "main": "./lib/index",
   "description": "JSON fetcher and mapper for Congregator",
-  "bugs": {
-    "url": "http://github.com/eiriklv/congregator-jsonfetcher/issues",
-    "email": "evullum@gmail.com"
-  },
   "dependencies": {
     "async": "0.7.x",
     "cheerio": "0.13.1",
@@ -24,12 +20,11 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodejs ./example/test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eiriklv/congregator-jsonfetcher.git"
+    "url": "git://github.com/anzizhao/congregator-jsonfetcher.git"
   },
   "keywords": [
     "json",
@@ -37,7 +32,5 @@
     "fetcher",
     "feed"
   ],
-  "license": "MIT",
-  "author": "Eirik Vullum <evullum@gmail.com> (http://www.evconsult.no/)",
-  "homepage": "https://github.com/eiriklv/congregator-jsonfetcher"
+  "license": "MIT"
 }
