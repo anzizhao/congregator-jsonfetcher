@@ -15,7 +15,7 @@
     "feedparser": "0.16.6",
     "html-entities": "1.0.10",
     "iconv-lite": "0.2.11",
-    "node-read": "^0.1.7",
+    "node-read": "anzizhao/node-read",
     "request": "2.34.0"
   },
   "devDependencies": {},
