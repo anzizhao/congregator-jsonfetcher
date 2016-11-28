@@ -1,6 +1,18 @@
+<<<<<<< HEAD
+//var read = require('node-read');
+//var async = require('async');
+//var Entities = require('html-entities').AllHtmlEntities;
+//var entities = new Entities();
+//var util = require('util');
+//var helpers = require('./helpers');
+
+var debug = require('debug')('jsonfetcher:content-fetcher');
+var url = require('url');
+=======
 var async = require('async');
 var debug = require('debug')('jsonfetcher:content-fetcher');
 var util = require('util');
+>>>>>>> origin
 var exec = require('child_process').exec;  
 var fs = require('fs');
 
