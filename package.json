@@ -20,6 +20,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "orig": "find .  -maxdepth 6  -name '*.orig'  -type f | xargs rm -f ",
     "start": "nodejs ./example/test"
   },
   "repository": {
